@@ -1,0 +1,23 @@
+ty1%%nummer%%erste&dritte&zweite%%2%%1&3&2%%deutsch%%unzucht
+$$$
+
+ty2%%englisch nummer%%one&two&three%%2%%erste&zweite&dritte%%englisch%%Оставить без следующего шага
+$$$
+
+ty2%%englisch nummer%%one&two%%2%%erste&zweite&dritte%%englisch%%mazucht
+$$$
+
+ty2%%englisch nummer%%one%%2%%erste&zweite&dritte%%englisch%%Оставить без следующего шага
+$$$
+
+kl%%txtu%%op&ko%%1%%ba&by%%testi%%Оставить без следующего шага
+$$$
+
+g%%ty%%h%%2%%1%%klop%%Оставить без следующего шага
+$$$
+
+g%%ty%%%%2%%1%%klop%%Оставить без следующего шага
+$$$
+
+keyboard%%txt%%But1&But2&But3&But4%%2%%1&2&3&4%%keyboard_test%%Оставить без следующего шага
+$$$

@@ -1,0 +1,8 @@
+func1 - 1
+func2 - 2
+func3 - 3
+func4 - 4
+startik - 90
+mazucht - unzucht
+unzucht - kaputt
+erdling - weissglut

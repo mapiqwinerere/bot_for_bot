@@ -1,0 +1,4 @@
+in1_menu%%txtin%%in&im%%2%%en&de%%inli%%Оставить без следующего шага
+$$$
+test%%testtxt%%deutsche&englische%%2%%немецкий&английский%%testiinline%%Оставить без следующего шага
+$$$
